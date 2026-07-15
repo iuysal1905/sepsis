@@ -1,0 +1,3 @@
+Models: ['Random', 'RuleBased', 'Small-DQN', 'Standard-DQN', 'VQC-DQN', 'Fusion-a0.8']
+Friedman statistic: 131.6952380952382
+p-value: 1.0393728856234913e-26
